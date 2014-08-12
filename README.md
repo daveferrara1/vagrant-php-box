@@ -8,8 +8,11 @@ Set up super fast a PHP5 development box with apache, mysql, phpmyadmin and what
 
 <ul>
   <li>
-    Install vagrant using the installation instructions in the 
+    Install vagrant using the installation instructions in the
     <a href="http://docs-v1.vagrantup.com/v1/docs/getting-started/" target="_blank">Getting Started document</a>
+
+    <code>git clone  "this HTTPS clone URL ------->"
+vagrant up</code>
   </li>
   <li>Clone this repository, go to it, and run $ vagrant up</li>
   <li>Put your sites and php files inside the sites folder</li>
@@ -17,7 +20,7 @@ Set up super fast a PHP5 development box with apache, mysql, phpmyadmin and what
 </ul>
 
 <p>
-PS: I receive several emails asking me which is the phpmyadmin's login and password, it is pretty easy to find out inside its docs... but, here it is: 
+PS: I receive several emails asking me which is the phpmyadmin's login and password, it is pretty easy to find out inside its docs... but, here it is:
 <br/>
 login: root
 <br/>
